@@ -1,3 +1,4 @@
 # first-
 Hy this is my first repo 
-Author Dileep Kumar 
+Author Dileep Kumar
+BSc Computer Science 
